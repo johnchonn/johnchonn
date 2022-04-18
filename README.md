@@ -1,11 +1,10 @@
 ## Hi there! I'm John Chon 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%23323330.svg?logo=LinkedIn&style=for-the-badge&logoColor=blue&color=white)](https://www.linkedin.com/in/mk0107/)
-[![LinkedIn](https://img.shields.io/badge/Gmail%20-%23323330.svg?logo=Gmail&style=for-the-badge&logoColor=red&color=white)](mailto:minseo0321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%23323330.svg?logo=LinkedIn&style=for-the-badge&logoColor=blue&color=white)](https://www.linkedin.com/in/johnchon/)
+[![LinkedIn](https://img.shields.io/badge/Gmail%20-%23323330.svg?logo=Gmail&style=for-the-badge&logoColor=red&color=white)](mailto:johnchon94@gmail.com)
 
 - :office: Alumni @[Hack Reactor](https://hackreactor.com/)
 - :round_pushpin: Based in Los Angeles, CA
-- :smile: Pronouns: he/him/his
 
 ### Languages & Tools
 
