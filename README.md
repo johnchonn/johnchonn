@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%23323330.svg?logo=LinkedIn&style=for-the-badge&logoColor=blue&color=white)](https://www.linkedin.com/in/johnchon/)
 [![LinkedIn](https://img.shields.io/badge/Gmail%20-%23323330.svg?logo=Gmail&style=for-the-badge&logoColor=red&color=white)](mailto:johnchon94@gmail.com)
 
-- :office: Software Engineer at FNS Inc. 2022 @[FNS Inc.](https://www.fnsusa.com/)
 - :office: HackReactor 2022 @[Hack Reactor](https://hackreactor.com/)
 - :round_pushpin: Based in Los Angeles, CA
 
