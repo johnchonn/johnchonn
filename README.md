@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%23323330.svg?logo=LinkedIn&style=for-the-badge&logoColor=blue&color=white)](https://www.linkedin.com/in/johnchon/)
 [![LinkedIn](https://img.shields.io/badge/Gmail%20-%23323330.svg?logo=Gmail&style=for-the-badge&logoColor=red&color=white)](mailto:johnchon94@gmail.com)
 
-- :round_pushpin: Based in Los Angeles, CA
+- :round_pushpin: Based in Orange County, CA
 
 ### Languages & Tools
 
